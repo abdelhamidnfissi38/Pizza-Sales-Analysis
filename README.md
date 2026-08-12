@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Analysis — SQL Server & Power BI
 
-## 📌 Présentation du projet
+##  Présentation du projet
 
 Ce projet consiste à analyser les ventes d'une pizzeria afin d'évaluer sa performance commerciale, d'identifier les tendances de commandes et de déterminer les pizzas, catégories et tailles les plus et les moins performantes.
 
@@ -140,10 +140,6 @@ Question business
 Requête SQL
         ↓
 Résultat
-        ↓
-Interprétation
-        ↓
-Insight
 ```
 ### `dashboard/Pizza_Sales_Dashboard.pbix`
 
