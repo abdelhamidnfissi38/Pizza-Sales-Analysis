@@ -34,9 +34,6 @@ L'analyse cherche principalement à répondre aux questions suivantes :
 | **SQL Server** | Stockage et analyse des données |
 | **SQL** | Calcul des KPI et analyses business |
 | **Power BI** | Visualisation et dashboard interactif |
-| **Microsoft Word** | Documentation des requêtes, résultats et interprétations |
-| **PDF** | Fiche synthétique des KPI et analyses |
-| **Git & GitHub** | Versionnement et présentation du portfolio |
 
 ---
 
