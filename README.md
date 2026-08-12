@@ -70,7 +70,7 @@ Power BI Dashboard
 
 ## Dashboard Preview
 
-![Pizza Sales Dashboard](images/dashboard.png)
+![Pizza Sales Dashboard](images)
 
 ---
 
