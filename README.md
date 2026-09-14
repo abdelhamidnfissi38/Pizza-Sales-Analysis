@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Analysis — SQL Server & Power BI
+#  Pizza Sales Analysis — SQL Server & Power BI
 
 ##  Présentation du projet
 
@@ -26,7 +26,7 @@ L'analyse cherche principalement à répondre aux questions suivantes :
 
 ---
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 | Technologie | Utilisation |
 |---|---|
@@ -37,7 +37,7 @@ L'analyse cherche principalement à répondre aux questions suivantes :
 
 ---
 
-# 🔄 Workflow du projet
+#  Workflow du projet
 
 ```text
 CSV
@@ -74,7 +74,7 @@ Power BI Dashboard
 
 ---
 
-# 💡 Insights business
+#  Insights business
 
 Les résultats SQL et le dashboard permettent notamment d'identifier :
 
@@ -120,7 +120,7 @@ Pizza-Sales-Analysis/
 
 ---
 
-# 📄 Description des fichiers
+#  Description des fichiers
 
 ### `data/pizza_sales.csv`
 
